@@ -30,6 +30,7 @@
     </properties>
 
     <build>
+    <finalName>SpringRest</finalName>
         <plugins>
             <plugin> 
                 <artifactId>maven-compiler-plugin</artifactId> 
